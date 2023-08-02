@@ -1,6 +1,6 @@
 # Home Credit Default Risk Analysis
 **Capstone Group Project Summer 2023**
-
+Sources: [https://www.kaggle.com/code/melbourne0/homeloandefaultprediction]
 ## Business Problem and Project Objective   
 A significant portion of the population, particularly those with insufficient or non-existent credit histories, are more vulnerable to untrustworthy lenders who may take advantage of them. Home Credit looks to address this problem by providing a positive and safe borrowing experience for the unbanked population.
 The goal for this project will be the reduction in loan rejections for creditworthy individuals, and the improvement in clients' loan repayment rates compared to previous methods by using the target variable of whether a client is likely to repay the loan or not. This project is aiming to identify a predictive analytical model that will identify the customers who are likely to default or not.
